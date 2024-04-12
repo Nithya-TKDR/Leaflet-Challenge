@@ -12,8 +12,8 @@
 > - *Popups*: Popups that provide additional information about the earthquake when its associated marker is clicked.<br>
 
 **References**:
-> - GeoJson Documentation, https://doc.arcgis.com/en/arcgis-online/reference/geojson.htm, accessed Mar 2024.
-> - GeoJson in Leaflet - Custom Features, https://bookdown.org/sammigachuhi/book-leaflet/using-geojson-in-leaflet.html, accessed Mar 2024.
-> - Leaflet JS Reference - Map Events, https://leafletjs.com/reference.html#map-event, accessed Mar 2024. 
+> - GeoJson Documentation, https://doc.arcgis.com/en/arcgis-online/reference/geojson.htm, accessed April 2024.
+> - GeoJson in Leaflet - Custom Features, https://bookdown.org/sammigachuhi/book-leaflet/using-geojson-in-leaflet.html, accessed April 2024.
+> - Leaflet JS Reference - Map Events, https://leafletjs.com/reference.html#map-event, accessed April 2024. 
 ---
  
